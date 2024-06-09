@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Class-Path: opencsv-5.9.jar log4j-core-2.23.1.jar log4j-api-2.23.1.jar c
+ ommons-text-1.11.0.jar commons-lang3-3.13.0.jar commons-beanutils-1.9.4
+ .jar commons-collections4-4.4.jar commons-logging-1.2.jar commons-colle
+ ctions-3.2.2.jar
+Main-Class: se.ifmo.ClientApplication
+
